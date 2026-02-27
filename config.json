@@ -1,0 +1,11 @@
+{
+  "companies": [
+    {"symbol": "NVDA", "name": "英伟达", "nameEn": "NVIDIA", "folder": "NVIDIA"},
+    {"symbol": "BABA", "name": "阿里巴巴", "nameEn": "Alibaba", "folder": "BABA"},
+    {"symbol": "MSFT", "name": "微软", "nameEn": "Microsoft", "folder": "MSFT"},
+    {"symbol": "AAPL", "name": "苹果", "nameEn": "Apple", "folder": "AAPL"},
+    {"symbol": "TSLA", "name": "特斯拉", "nameEn": "Tesla", "folder": "TSLA"}
+  ],
+  "schedule": {"time": "09:00", "timezone": "Asia/Shanghai"},
+  "notifications": {"feishu": true}
+}
